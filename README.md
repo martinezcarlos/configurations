@@ -35,7 +35,7 @@ Code inspections rise warning/errors according to some good practices rules.
 	3. In the Profile field select PersonalInspections
 	
 ## Configure Save Actions Plugin
-Save Actions plugins apply a set of rules when a file is saved. To configure it apply these rules:
+Save Actions plugins apply a set of rules when a file is saved. To configure it apply the rules shown in **SaveActionsConf.png**.
 
 ***
 
